@@ -2,19 +2,6 @@
 
 Olá, Amante de Livros! 👋 Seja bem-vindo(a) ao meu cantinho digital para organizar leituras!
 
-      .--.                   .---.
-     :    :                 : .--'
-     |    |.--.   .--.      : `;
-     :    ;|  |   |  |      : :
-     |    ||  |   |  |      : :   
-     :    ;|  |   |  |      : :   
-     |    ||  '-._|  | ___  : :__ 
-     :    ;;       ; |`GTG': ;__.'
-     '----''-------'-'------`""
- (Obrigado ao jgs por essa arte de livro!)
-
----
-
 ## 🎯 Sobre o Projeto
 
 Este é o **Catálogo de Livros Pessoal**, um sistema charmoso feito com muito ❤️ em Java Swing e MongoDB! Ele foi criado para ajudar você (e eu!) a manter um registro organizado daquela pilha de livros que a gente tanto ama, seja os que já lemos, os que queremos ler, ou aqueles tesouros da nossa estante.
